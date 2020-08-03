@@ -1,0 +1,74 @@
+{
+    "header": {
+        "name": "Nguyễn Thế Anh",
+        "job": "Lập trình viên",
+        "location": "Hà Nội"
+    },
+    "body": {
+        "edu": {
+            "education": "HỌC VẤN",
+            "university": "ĐẠI HỌC CÔNG NGHỆ - ĐHQGHN",
+            "majors": "Công nghệ thông tin định hướng thị trường Nhật Bản.",
+            "year": "Hiện là sinh viên năm 4",
+            "time": "09/2017 -  Hiện nay"
+       },
+        "ex": {
+            "experinece": "KINH NGHIỆM LÀM VIỆC",
+            "company": "CÔNG TY CỔ PHẦN MISA",
+            "position": "Thực tập sinh",
+            "job": "Thực tập sinh web developer tại Công ty MISA vào hè năm 2019." ,
+            "time": "07/2019 - 10/2019"
+        },
+        "ac": {
+            "action": "HOẠT ĐỘNG",
+            "hr": {
+                "name": "CLB NGUỒN NHÂN LỰC HRTECH - ĐH CÔNG NGHỆ",
+                "time": "10/2018 - 10/2019",
+                "position": "Thành viên",
+                "job": "Thành viên ban truyền thông"
+            },
+           "ja": {
+                "name": "JAPIT - CÂU LẠC BỘ TIẾNG NHẬT TRƯỜNG ĐẠI HỌC CÔNG NGHỆ"
+           },
+           "monitor": {
+                "name": "Ban cán sự lớp K62-J - UET-VNU.",
+                "time": "09/2017 - Hiện nay",
+                "job": "Lớp trưởng và bí thư"
+           }
+        },
+        "pri": {
+            "prize": "GIẢI THƯỞNG",
+            "5-good": {
+                "name": "SINH VIÊN 5 TỐT CẤP TRƯỜNG ĐẠI HỌC CÔNG NGHỆ",
+                "time": "11/2019",
+                "organization": "Trường Đại học Công nghệ"
+            },
+            "collective": {
+                "name": "GIẤY CHỨNG NHẬN ĐÃ CÓ ĐÓNG GÓP CHO CÔNG TÁC TẬP THỂ",
+                "time": "09/2019",
+                "organization": "Hiệu trưởng Trường Đại học Công nghệ"
+            }
+        },
+        "product": {
+            "name": "SẢN PHẨM",
+            "kanji45" : {
+                "name":"KANJI45",
+                "time": "06/2020",
+                "pr": "Giới thiệu sản phẩm",
+                "application": "Ứng dụng di động về giáo dục"
+            },
+            "old-book": {
+                "name": "WEBSITE CHO MƯỢN SÁCH CŨ",
+                "time": "06/2020",
+                "pr": "TA-BOOK",
+                "application": "Website"
+            },
+            "memrise": {
+                "name": "MEMRISE-UET",
+                "time": "06/2020",
+                "pr": "Giới thiệu sản phẩm",
+                "application": "Ứng dụng di động về giáo dục."
+            }
+        }
+    }
+}

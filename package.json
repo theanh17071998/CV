@@ -1,0 +1,43 @@
+{
+  "name": "cv",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.3.2",
+    "@testing-library/user-event": "^7.1.2",
+    "firebase-tools": "^8.6.0",
+    "global": "^4.4.0",
+    "i18next": "^19.6.3",
+    "node-sass": "^4.14.1",
+    "rc-progress": "^3.0.0",
+    "react": "^16.13.1",
+    "react-cv": "^1.1.0",
+    "react-dom": "^16.13.1",
+    "react-i18next": "^11.7.0",
+    "react-scripts": "3.4.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --coverage --watchAll=false",
+    "eject": "react-scripts eject",
+    "login": "firebase login:ci",
+    "deploy-firebase": "firebase deploy --token=1//0eYsOb8xWWnw0CgYIARAAGA4SNwF-L9IrvIe2lWms4XAZ9VUxKr9DWjp_zCGDXrjJ4pnbfyJxVkoyGeQ_FGYCSYEjbOtQgUrlNQg"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

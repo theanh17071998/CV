@@ -1,0 +1,74 @@
+{
+    "header": {
+        "name": "グエン・テ・アイン",
+        "job": "プログラマー",
+        "location": "ハノイ"
+    },
+    "body": {
+        "edu": {
+            "education": "学歴",
+            "university": "ハノイ国家大学　ハノイ校技術工学大学",
+            "majors": "情報技術（日本市場向け",
+            "year": "4年生",
+            "time": "2017/09 -  現"
+       },
+        "ex": {
+            "experinece": "職歴",
+            "company": "MISA株式会社",
+            "position": "インターンシップ",
+            "job": "２０１９年夏　ウェブ開発インターンシップ" ,
+            "time": "2019/07 - 2019/10"
+        },
+        "ac": {
+            "action": "アクティビティ",
+            "hr": {
+                "name": "HRテックというクラブ",
+                "time": "2018/10 - 2019/10",
+                "position": "メンバー",
+                "job": "コミューニケーション・ボード・メンバー"
+            },
+           "ja": {
+                "name": "JAPIT - ハノイ校技術工学大学の日本語クラブ"
+           },
+           "monitor": {
+                "name": "クラスリーダーボードK62-J VNU-UET大学。",
+                "time": "2017/09 - 現",
+                "job": "モニターと秘書"
+           }
+        },
+        "pri": {
+            "prize": "賞",
+            "5-good": {
+                "name": "VNU-UET大学の5つのメリットの学生",
+                "time": "2019/11",
+                "organization": "ハノイ校技術工学大学"
+            },
+            "collective": {
+                "name": "賞状は大学の共同作業に貢献しています。",
+                "time": "2019/09",
+                "organization": "ハノイ校技術工学大学の学長"
+            }
+        },
+        "product": {
+            "name": "プロダクト",
+            "kanji45" : {
+                "name":"KANJI45",
+                "time": "2020/06",
+                "pr": "プロダクトの紹介",
+                "application": "教育についてのモバイルアプリ"
+            },
+            "old-book": {
+                "name": "古本の貸し出しのウェブサイト",
+                "time": "2020/06",
+                "pr": "Github",
+                "application": "ウェブサイト"
+            },
+            "memrise": {
+                "name": "MEMRISE-UET",
+                "time": "2020/06",
+                "pr": "プロダクトの紹介",
+                "application": "教育についてのモバイルアプリ"
+            }
+        }
+    }
+}
