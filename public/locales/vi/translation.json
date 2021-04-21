@@ -19,6 +19,13 @@
             "job": "Thực tập sinh web developer tại Công ty MISA vào hè năm 2019." ,
             "time": "07/2019 - 10/2019"
         },
+        "ex2": {
+            "experinece": "KINH NGHIỆM LÀM VIỆC",
+            "company": "CÔNG TY TEKO VIỆT NAM",
+            "position": "Nhân viên",
+            "job": "Lập trình viên FrontEnd tại Công ty Teko Viet Nam" ,
+            "time": "06/2020 - 02/2021"
+        },
         "ac": {
             "action": "HOẠT ĐỘNG",
             "hr": {
@@ -53,13 +60,13 @@
             "name": "SẢN PHẨM",
             "kanji45" : {
                 "name":"KANJI45",
-                "time": "06/2020",
+                "time": "05/2020",
                 "pr": "Giới thiệu sản phẩm",
                 "application": "Ứng dụng di động về giáo dục"
             },
             "old-book": {
                 "name": "WEBSITE CHO MƯỢN SÁCH CŨ",
-                "time": "06/2020",
+                "time": "03/2020",
                 "pr": "TA-BOOK",
                 "application": "Website"
             },
@@ -68,6 +75,20 @@
                 "time": "06/2020",
                 "pr": "Giới thiệu sản phẩm",
                 "application": "Ứng dụng di động về giáo dục."
+            },
+            "tripiOne": {
+                "name": "TripiOne",
+                "time": "06/2020 - 02/2021",
+                "pr": "Giới thiệu sản phẩm",
+                "application": "Sản phẩm của Công ty Cổ phần Du lịch Việt Nam VNTRAVEL. Website cho phép nhân viên công ty có thể đặt vé máy bay, khách sạn và quản lý các đơn hàng theo hạn mức budget của bản thân, quản các tài khoản được phép đặt vé, quản lý số dư tài khoản, nhân viên khi đặt vé phải có được phê duyệt từ phía công ty chủ quản và thành công thì sẽ trừ trên số dư tài khoản tổng của công ty: Web Portal (Quản trị Doanh nghiệp)"
+                
+            },
+            "tripi": {
+                "name": "TripiPartner",
+                "time": "06/2020 - 02/2021",
+                "pr": "Giới thiệu sản phẩm",
+                "application": "Sản phẩm của Công ty Cổ phần Du lịch Việt Nam VNTRAVEL. Website đặt vé máy bay, khách sạn, tour du lịch thuận tiện và tốt nhất"
+                
             }
         }
     }

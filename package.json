@@ -9,6 +9,8 @@
     "firebase-tools": "^8.6.0",
     "global": "^4.4.0",
     "i18next": "^19.6.3",
+    "i18next-browser-languagedetector": "^6.0.1",
+    "i18next-http-backend": "^1.0.18",
     "node-sass": "^4.14.1",
     "rc-progress": "^3.0.0",
     "react": "^16.13.1",
@@ -39,5 +41,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "babel-plugin-module-resolver": "^4.0.0"
   }
 }
