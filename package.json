@@ -25,7 +25,7 @@
     "test": "react-scripts test --coverage --watchAll=false",
     "eject": "react-scripts eject",
     "login": "firebase login:ci",
-    "deploy-firebase": "firebase deploy --token=1//0eYsOb8xWWnw0CgYIARAAGA4SNwF-L9IrvIe2lWms4XAZ9VUxKr9DWjp_zCGDXrjJ4pnbfyJxVkoyGeQ_FGYCSYEjbOtQgUrlNQg"
+    "deploy-firebase": "firebase deploy --token=1//0gwzmGLgHcKb3CgYIARAAGBASNwF-L9IrnELBt5AnWa92ofkhskIbyeYHB8kPHNwZDZkuJ40HAndnNaHU6izFLgz3MXSgmB0HFCI"
   },
   "eslintConfig": {
     "extends": "react-app"

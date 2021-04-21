@@ -33,7 +33,7 @@ jobs:
       docker:
         - image: circleci/node:latest
           environment:
-            KEY_TOKEN_FIREBASE: APA91bFrhO4b2CJYI__VvbaMVF9GzhvpJEwnNnvJHsTcWId8IT5XRUSRx3T6fc6mnmPFFAxwCrYVumZ2TpeU-F0c5YuJZ-nWHQtGqMKbanfiAc8B5dbaEHBGMJxQl_48vI9059R6SQyK
+            KEY_TOKEN_FIREBASE: 1//0gwzmGLgHcKb3CgYIARAAGBASNwF-L9IrnELBt5AnWa92ofkhskIbyeYHB8kPHNwZDZkuJ40HAndnNaHU6izFLgz3MXSgmB0HFCI
       working_directory: ~/theanh28 
       steps:
         - restore_cache:
@@ -53,7 +53,7 @@ jobs:
             command: ls -ltr
         - run:
             name: Deploy Master to Firebase
-            command: yarn deploy-firebase -- --token=$KEY_TOKEN_FIREBASE
+            command: yarn deploy-firebase --token=$KEY_TOKEN_FIREBASE
 workflows:
   version: 2
   theanh_deploy:

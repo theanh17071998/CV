@@ -19,6 +19,13 @@
             "job": "A web developer intern in the summer of 2019." ,
             "time": "2019/07 - 2019/10"
         },
+        "ex2": {
+            "experinece": "EXPERIENCE",
+            "company": "TEKO VIET NAM COMPANY",
+            "position": "Staff",
+            "job": "I was in charge of the front end using React JS and implemented CI / CD in the front end system." ,
+            "time": "06/2020 - 02/2021"
+        },
         "ac": {
             "action": "ACTIVITIES",
             "hr": {
@@ -68,6 +75,20 @@
                 "time": "2020/06",
                 "pr": "Product introduction",
                 "application": "Mobile application about education"
+            },
+            "tripiOne": {
+                "name": "TripiOne",
+                "time": "06/2020 - 02/2021",
+                "pr": "Product introduction",
+                "application": "A product of JSC Vietnam Tourism VNTRAVEL. The website allows company employees to book flights, hotels and manage orders according to their own budget, manage accounts that are allowed to book tickets, manage account balances, staff when booking. Tickets must be approved by the management company and successfully deducted from the company's total account balance: Web Portal."
+                
+            },
+            "tripi": {
+                "name": "TripiPartner",
+                "time": "06/2020 - 02/2021",
+                "pr": "Product introduction",
+                "application": "A product of JSC Vietnam Tourism VNTRAVEL. Website to book flights, hotels, tours, convenient and best."
+                
             }
         }
     }
