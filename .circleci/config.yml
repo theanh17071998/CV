@@ -53,7 +53,7 @@ jobs:
             command: ls -ltr
         - run:
             name: Deploy Master to Firebase
-            command: yarn deploy-firebase -- --token=$KEY_TOKEN_FIREBASE
+            command: yarn deploy-firebase --token=$KEY_TOKEN_FIREBASE
 workflows:
   version: 2
   theanh_deploy:
